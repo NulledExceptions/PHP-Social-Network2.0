@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/authentication
+END
+signer.abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/authentication/signer.abstract.php
+END
+signature_v2query.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/authentication/signature_v2query.class.php
+END
+signable.interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/authentication/signable.interface.php
+END
+signature_v3query.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/authentication/signature_v3query.class.php
+END
+signature_v3json.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/authentication/signature_v3json.class.php
+END

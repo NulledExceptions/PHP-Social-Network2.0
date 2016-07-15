@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/lib/requestcore
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/lib/requestcore/cacert.pem
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/lib/requestcore/LICENSE
+END
+requestcore.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/lib/requestcore/requestcore.class.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/lib/requestcore/README.md
+END

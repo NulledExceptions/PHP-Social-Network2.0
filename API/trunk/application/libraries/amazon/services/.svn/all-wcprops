@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services
+END
+s3.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/s3.class.php
+END
+cloudformation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/cloudformation.class.php
+END
+rds.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/rds.class.php
+END
+ses.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/ses.class.php
+END
+dynamodb.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/dynamodb.class.php
+END
+cloudwatch.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/cloudwatch.class.php
+END
+swf.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/swf.class.php
+END
+elb.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/elb.class.php
+END
+as.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/as.class.php
+END
+sns.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/sns.class.php
+END
+elasticache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/elasticache.class.php
+END
+iam.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/iam.class.php
+END
+sqs.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/sqs.class.php
+END
+sdb.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/sdb.class.php
+END
+elasticbeanstalk.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/elasticbeanstalk.class.php
+END
+ec2.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/ec2.class.php
+END
+sts.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/sts.class.php
+END
+importexport.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/importexport.class.php
+END
+cloudfront.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/cloudfront.class.php
+END
+emr.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/services/emr.class.php
+END

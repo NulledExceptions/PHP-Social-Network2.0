@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/573/API/trunk/application/libraries
+END
+ios_push.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/580/API/trunk/application/libraries/ios_push.php
+END
+aws.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/475/API/trunk/application/libraries/aws.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/API/trunk/application/libraries/index.html
+END
+PlateMe.pem
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/529/API/trunk/application/libraries/PlateMe.pem
+END
+MY_Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/API/trunk/application/libraries/MY_Session.php
+END

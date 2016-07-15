@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities
+END
+request.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/request.class.php
+END
+batchrequest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/batchrequest.class.php
+END
+info.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/info.class.php
+END
+credentials.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/credentials.class.php
+END
+response.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/response.class.php
+END
+policy.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/policy.class.php
+END
+stacktemplate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/stacktemplate.class.php
+END
+stepconfig.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/stepconfig.class.php
+END
+hadoopbase.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/hadoopbase.class.php
+END
+manifest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/manifest.class.php
+END
+hadoopstep.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/hadoopstep.class.php
+END
+hadoopbootstrap.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/hadoopbootstrap.class.php
+END
+json.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/json.class.php
+END
+complextype.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/complextype.class.php
+END
+credential.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/credential.class.php
+END
+simplexml.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/simplexml.class.php
+END
+utilities.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/utilities.class.php
+END
+mimetypes.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/mimetypes.class.php
+END
+gzipdecode.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/gzipdecode.class.php
+END
+array.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/utilities/array.class.php
+END

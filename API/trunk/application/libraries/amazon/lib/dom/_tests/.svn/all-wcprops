@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/lib/dom/_tests
+END
+simple.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/lib/dom/_tests/simple.phpt
+END
+books.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/lib/dom/_tests/books.phpt
+END
+same_root_nodes.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/lib/dom/_tests/same_root_nodes.phpt
+END
+different_root_nodes.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/lib/dom/_tests/different_root_nodes.phpt
+END

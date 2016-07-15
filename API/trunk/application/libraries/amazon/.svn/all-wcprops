@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon
+END
+config.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/config.inc.php
+END
+sdk.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/sdk.class.php
+END

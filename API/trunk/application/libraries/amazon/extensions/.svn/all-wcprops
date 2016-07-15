@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/extensions
+END
+s3browserupload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/extensions/s3browserupload.class.php
+END
+s3streamwrapper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/475/API/trunk/application/libraries/amazon/extensions/s3streamwrapper.class.php
+END
