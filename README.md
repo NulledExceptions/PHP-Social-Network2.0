@@ -2,4 +2,4 @@
 PHP Social Network with codeigniter
 
 
-beta files implementation code igniter PHP framework
+beta files implementation of code igniter PHP framework
