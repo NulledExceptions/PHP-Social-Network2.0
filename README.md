@@ -3,3 +3,6 @@ PHP Social Network with codeigniter
 
 
 beta files implementation of code igniter PHP framework
+
+Restful API endpoints, JSON communication
+
